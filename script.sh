@@ -20,3 +20,4 @@ do
 done
 rm temp*.csv
 cat resultado.csv
+rm resultado.csv
